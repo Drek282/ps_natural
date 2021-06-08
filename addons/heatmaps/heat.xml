@@ -1,0 +1,318 @@
+<?xml version="1.0" ?>
+<maps>
+ <map name='co_angst' gametype='halflife' modtype='natural'>
+  <minx>-705</minx>
+  <miny>-1785</miny>
+  <maxx>1385</maxx>
+  <maxy>2535</maxy>
+  <res>295x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_blackmesa_r5a' gametype='halflife' modtype='natural'>
+  <minx>-1930</minx>
+  <miny>-1710</miny>
+  <maxx>3330</maxx>
+  <maxy>930</maxy>
+  <res>600x299</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_core' gametype='halflife' modtype='natural'>
+  <minx>-1958</minx>
+  <miny>-1191</miny>
+  <maxx>1251</maxx>
+  <maxy>633</maxy>
+  <res>600x343</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_daimos' gametype='halflife' modtype='natural'>
+  <minx>-1950</minx>
+  <miny>-718</miny>
+  <maxx>1634</maxx>
+  <maxy>2558</maxy>
+  <res>600x553</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_faceoff' gametype='halflife' modtype='natural'>
+  <minx>-884</minx>
+  <miny>-1627</miny>
+  <maxx>973</maxx>
+  <maxy>1929</maxy>
+  <res>317x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_freefall_b2b' gametype='halflife' modtype='natural'>
+  <minx>-2280</minx>
+  <miny>-1235</miny>
+  <maxx>740</maxx>
+  <maxy>1640</maxy>
+  <res>600x579</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_kestrel' gametype='halflife' modtype='natural'>
+  <minx>-2215</minx>
+  <miny>-416</miny>
+  <maxx>1204</maxx>
+  <maxy>3782</maxy>
+  <res>488x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_niveus' gametype='halflife' modtype='natural'>
+  <minx>-2805</minx>
+  <miny>-213</miny>
+  <maxx>151</maxx>
+  <maxy>2641</maxy>
+  <res>600x578</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_plague_mvm' gametype='halflife' modtype='natural'>
+  <minx>-1201</minx>
+  <miny>-628</miny>
+  <maxx>753</maxx>
+  <maxy>3288</maxy>
+  <res>302x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_pulse' gametype='halflife' modtype='natural'>
+  <minx>-1204</minx>
+  <miny>-1934</miny>
+  <maxx>1263</maxx>
+  <maxy>1394</maxy>
+  <res>448x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_s_marioland_mvm2' gametype='halflife' modtype='natural'>
+  <minx>-2073</minx>
+  <miny>-1596</miny>
+  <maxx>2074</maxx>
+  <maxy>1592</maxy>
+  <res>600x480</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_sava' gametype='halflife' modtype='natural'>
+  <minx>-2888</minx>
+  <miny>-1814</miny>
+  <maxx>615</maxx>
+  <maxy>3766</maxy>
+  <res>376x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_spacefall_b12' gametype='halflife' modtype='natural'>
+  <minx>-2595</minx>
+  <miny>-1650</miny>
+  <maxx>125</maxx>
+  <maxy>510</maxy>
+  <res>600x482</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_ulysses' gametype='halflife' modtype='natural'>
+  <minx>-1456</minx>
+  <miny>-1841</miny>
+  <maxx>1169</maxx>
+  <maxy>1430</maxy>
+  <res>484x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_umbra' gametype='halflife' modtype='natural'>
+  <minx>418</minx>
+  <miny>-3193</miny>
+  <maxx>3110</maxx>
+  <maxy>1602</maxy>
+  <res>338x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='co_volcanodrop' gametype='halflife' modtype='natural'>
+  <minx>-0</minx>
+  <miny>-1610</miny>
+  <maxx>1475</maxx>
+  <maxy>2435</maxy>
+  <res>219x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_abyss_b1' gametype='halflife' modtype='natural'>
+  <minx>-2275</minx>
+  <miny>-2799</miny>
+  <maxx>1787</maxx>
+  <maxy>1527</maxy>
+  <res>565x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_altair' gametype='halflife' modtype='natural'>
+  <minx>-3625</minx>
+  <miny>-3269</miny>
+  <maxx>2721</maxx>
+  <maxy>3261</maxy>
+  <res>585x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_ayumi' gametype='halflife' modtype='natural'>
+  <minx>-2267</minx>
+  <miny>-3818</miny>
+  <maxx>2776</maxx>
+  <maxy>2716</maxy>
+  <res>461x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_bast' gametype='halflife' modtype='natural'>
+  <minx>-3290</minx>
+  <miny>-3426</miny>
+  <maxx>3256</maxx>
+  <maxy>2692</maxy>
+  <res>600x562</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_caged' gametype='halflife' modtype='natural'>
+  <minx>-3484</minx>
+  <miny>-2996</miny>
+  <maxx>2957</maxx>
+  <maxy>3262</maxy>
+  <res>600x586</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_eclipse' gametype='halflife' modtype='natural'>
+  <minx>-3842</minx>
+  <miny>-3394</miny>
+  <maxx>3502</maxx>
+  <maxy>2423</maxy>
+  <res>600x476</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_eon' gametype='halflife' modtype='natural'>
+  <minx>-3360</minx>
+  <miny>-3829</miny>
+  <maxx>2572</maxx>
+  <maxy>3998</maxy>
+  <res>455x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_hera' gametype='halflife' modtype='natural'>
+  <minx>-3868</minx>
+  <miny>-4032</miny>
+  <maxx>3148</maxx>
+  <maxy>3185</maxy>
+  <res>582x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_lost' gametype='halflife' modtype='natural'>
+  <minx>-2297</minx>
+  <miny>-2878</miny>
+  <maxx>2339</maxx>
+  <maxy>2758</maxy>
+  <res>494x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_lucid' gametype='halflife' modtype='natural'>
+  <minx>-2753</minx>
+  <miny>-3199</miny>
+  <maxx>2839</maxx>
+  <maxy>2304</maxy>
+  <res>600x594</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_machina' gametype='halflife' modtype='natural'>
+  <minx>-3789</minx>
+  <miny>-2604</miny>
+  <maxx>3909</maxx>
+  <maxy>3155</maxy>
+  <res>600x447</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_metal' gametype='halflife' modtype='natural'>
+  <minx>-2728</minx>
+  <miny>-2962</miny>
+  <maxx>3638</maxx>
+  <maxy>3720</maxy>
+  <res>570x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_nancy' gametype='halflife' modtype='natural'>
+  <minx>-3145</minx>
+  <miny>-3025</miny>
+  <maxx>3472</maxx>
+  <maxy>3662</maxy>
+  <res>592x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_nothing' gametype='halflife' modtype='natural'>
+  <minx>-3755</minx>
+  <miny>-3222</miny>
+  <maxx>3837</maxx>
+  <maxy>2839</maxy>
+  <res>600x477</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_origin' gametype='halflife' modtype='natural'>
+  <minx>-3749</minx>
+  <miny>-3198</miny>
+  <maxx>3825</maxx>
+  <maxy>2819</maxy>
+  <res>600x477</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_shiva' gametype='halflife' modtype='natural'>
+  <minx>-3047</minx>
+  <miny>-2862</miny>
+  <maxx>3928</maxx>
+  <maxy>3219</maxy>
+  <res>600x524</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_siege005returns' gametype='halflife' modtype='natural'>
+  <minx>-2559</minx>
+  <miny>-3345</miny>
+  <maxx>3398</maxx>
+  <maxy>2692</maxy>
+  <res>593x600</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_tanith' gametype='halflife' modtype='natural'>
+  <minx>-3301</minx>
+  <miny>-2791</miny>
+  <maxx>3388</maxx>
+  <maxy>2964</maxy>
+  <res>600x520</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+ <map name='ns_veil' gametype='halflife' modtype='natural'>
+  <minx>-3246</minx>
+  <miny>-3211</miny>
+  <maxx>3569</maxx>
+  <maxy>2967</maxy>
+  <res>600x543</res>
+  <flipv>1</flipv>
+  <fliph>0</fliph>
+ </map>
+</maps>

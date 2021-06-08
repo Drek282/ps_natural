@@ -1,0 +1,6 @@
+--- DREK ---
+
+
+Version 3.2.8b (in progress)
+* [Changed] Mod specific theme name suffix from "ns" to "natural" to match designation in code.
+* [Changed] Mod specific plugin name suffix from "ns" to "natural" to match designation in code.
