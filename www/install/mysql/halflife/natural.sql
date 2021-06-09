@@ -62,7 +62,6 @@ INSERT INTO `ps_config_events` (`id`, `gametype`, `modtype`, `eventname`, `alias
     VALUES 
         (1,'halflife','','kill','','/^\"(.+(?:<[^>]*>))\" killed \"(.+(?:<[^>]*>))\" with \"([^\"]*)\"(.*)/',10,0,''),
         (2,'halflife','','attacked','','/^\"(.+(?:<[^>]*>))\" attacked \"(.+(?:<[^>]*>))\" with \"([^\"]+)\"(.*)/',20,1,''),
-        (3,'halflife','','plrtrigger','','/^\"(.+(?:<[^>]*>))\" triggered \"([^\"]+)\"(.*)/',30,0,''),
         (4,'halflife','','round','','/^World triggered \"([^\"]+)\"(.*)/',40,0,''),
         (5,'halflife','','entered_game','','/^\"(.+(?:<[^>]*>))\" entered the game(.*)/',50,0,''),
         (6,'halflife','','joined_team','','/^\"(.+(?:<[^>]*>))\" joined team \"([^\"]+)\"/',60,0,''),
@@ -185,7 +184,8 @@ INSERT INTO `ps_weapon` (`weaponid`, `uniqueid`, `name`, `skillweight`, `class`)
         (20, 'devour', 'Onos Devour', 0.60, 'Alien Melee'),
         (21, 'offensechamber', 'Offence Chamber', 0.60, 'Structure'),
         (22, 'leap', 'Skulk Leap', 1.50, 'Alien Melee'),
-        (23, 'sporegunprojectile', 'Spore Gun', 1.50, 'Alien Ranged');
+        (23, 'sporegunprojectile', 'Spore Gun', 1.50, 'Alien Ranged')
+        (24, 'divinewind', 'Xenocide', 4.00, 'Sacrifice');
 
 INSERT INTO `ps_role` (`roleid`, `uniqueid`, `name`, `team`) 
     VALUES 
