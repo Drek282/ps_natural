@@ -184,7 +184,7 @@ INSERT INTO `ps_weapon` (`weaponid`, `uniqueid`, `name`, `skillweight`, `class`)
         (20, 'devour', 'Onos Devour', 0.60, 'Alien Melee'),
         (21, 'offensechamber', 'Offence Chamber', 0.60, 'Structure'),
         (22, 'leap', 'Skulk Leap', 1.50, 'Alien Melee'),
-        (23, 'sporegunprojectile', 'Spore Gun', 1.50, 'Alien Ranged')
+        (23, 'sporegunprojectile', 'Spore Gun', 1.50, 'Alien Ranged'),
         (24, 'divinewind', 'Xenocide', 4.00, 'Sacrifice');
 
 INSERT INTO `ps_role` (`roleid`, `uniqueid`, `name`, `team`) 
