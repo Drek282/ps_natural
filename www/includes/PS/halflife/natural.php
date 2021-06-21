@@ -9,7 +9,7 @@ if (!defined("PSYCHOSTATS_PAGE")) die("Unauthorized access to " . basename(__FIL
 if (defined("CLASS_PS_HALFLIFE_NATURAL_PHP")) return 1;
 define("CLASS_PS_HALFLIFE_NATURAL_PHP", 1);
 
-include_once(dirname(__DIR__) . '/halflife.php');
+include_once(rtrim(dirname(__DIR__), '/\\') . '/halflife.php');
 
 class PS_halflife_natural extends PS_halflife {
 
