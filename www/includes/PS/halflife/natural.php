@@ -38,9 +38,13 @@ var $CLAN_MODTYPES = array(
 	'structuresrecycled'	=> '+',
 );
 
-function PS_halflife_natural(&$db) {
+function __construct(&$db) {
 	parent::PS_halflife($db);
 	$this->CLAN_MAP_MODTYPES = $this->CLAN_MODTYPES;
+}
+
+function PS_halflife_natural(&$db) {
+    self::__construct($db);
 }
 
 function add_map_player_list_mod($map, $setup = array()) {
