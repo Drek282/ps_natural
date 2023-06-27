@@ -6,3 +6,4 @@ Version 3.2.8b (in progress)
 * [Changed] Mod specific plugin name suffix from "ns" to "natural" to match designation in code.
 * [Fixed] HTML errors/warnings.
 * [Fixed] PHP 8 errors/warnings.
+* [Changed] Pages will now display error message if javascript is disabled.
