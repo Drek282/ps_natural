@@ -1,7 +1,7 @@
 --- DREK ---
 
 
-Version 3.2.8b (in progress)
+Version 3.2.8n (in progress)
 * [Changed] Mod specific theme name suffix from "ns" to "natural" to match designation in code.
 * [Changed] Mod specific plugin name suffix from "ns" to "natural" to match designation in code.
 * [Fixed] HTML errors/warnings.
@@ -9,3 +9,4 @@ Version 3.2.8b (in progress)
 * [Changed] Pages will now display error message if javascript is disabled.
 * [Added] GDPR compliance.
 * [Fixed] Broken quick login.
+* [Changed] Version string to indicate "nightly" status of current working version.
